@@ -1,27 +1,36 @@
 [
     {
         "title": "EeY",
-        "text": "doggy"
+        "text": "doggy",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "Yanyuur 2",
-        "text": "The content of note 2"
+        "text": "The content of note 2",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
+
     },
     {
         "title": "N00te 3",
-        "text": "The content of note 3"
+        "text": "The content of note 3",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "Note 4",
-        "text": "The content of note 4"
+        "text": "The content of note 4",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
+
     },
     {
         "title": "Note 5",
-        "text": "The content of note 5"
+        "text": "The content of note 5",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "Note 6",
-        "text": "The content of note 6"
+        "text": "The content of note 6",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
+
     },
     { 
         "title": "Note 7",
@@ -29,18 +38,22 @@
     },
     {
         "title": "Note 8",
-        "text": "The content of note 8"
+        "text": "The content of note 8",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "ditaar",
-        "text": "heystt"
+        "text": "heystt",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "termoos",
-        "text": "heystt"
+        "text": "heystt",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     },
     {
         "title": "Doofaar",
-        "text": "Pig"
+        "text": "Pig",
+        "vid": "https://github.com/2028ljay/json/blob/master/promo_1.mp4"
     }
 ] 
