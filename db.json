@@ -1,38 +1,21 @@
-[
+ [
       {
-        "maahSom": "1Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
+      "id":1,
+        "words": ["x1","x2","x3"],
+        "emoji": ["xa","xb","xc"],
+        "audio": ["xaudio1","xaudio2","xaudio3"]
     },
       {
-        "maahSom": "2Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
+       "id":2,
+         "words": ["c1","c2","c3"],
+        "emoji": ["ca","cb","cc"],
+        "audio": ["caudio1","caudio2","caudio3"]
     },
       {
-        "maahSom": "3Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
-    },
-      {
-        "maahSom": "4Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
-    },
-      {
-        "maahSom": "5Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
-    },
-      {
-        "maahSom": "6Aadmi la aragyaaba, dhib la arag.",
-        "title": "Yanyuur 2",
-        "text": "The content of note 2",
-        "vid": "https://github.com/2028ljay/json/blob/master/promo_2.mp4"
+       "id":3,
+        "words": ["z1","z2","z3"],
+        "emoji": ["za","zb","zc"],
+        "audio": ["zaudio1","zaudio2","zaudio3"]
+        
     }
 ] 
